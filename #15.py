@@ -11,6 +11,6 @@ class Permu:
           return(a)
 
 
-a=[3,2,1]
+a=[1,2,3]
 o=Permu()
 o.fun(a,len(a))
